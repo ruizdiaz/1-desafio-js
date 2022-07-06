@@ -4,7 +4,7 @@ for (let i = 1; i<=10; i++) {
     let pediatra = prompt("Ingrese nombre del Pediatra");//elijo pediatra
     let ingresarNombre = prompt("Ingresar nombre");// pongo mi nombre
     alert("turno n° "+i+" Nombre: "+ingresarNombre);//me pone la ubicacion del turno
-    break;
+    
     
     
     //primero elige pediatra
